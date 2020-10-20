@@ -6,12 +6,12 @@
   ### c.  Use HTMLRewriter to add these links to the static HTML page
   ### d.  Return the transformed HTML page from the Worker
   #### Profile
-   #### Avatar
-   #### Name
+   #### a. Avatar
+   #### b. Name
 ## Extra Credit
-  ### Social Links
-  ### Update Title
-  ### Change background color
+  ### a. Social Links
+  ### b. Update Title
+  ### c. Change background color
 
 # Orginal Problem Statement:
 # General Assignment
