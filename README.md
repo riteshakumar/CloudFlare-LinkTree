@@ -5,13 +5,13 @@ Completed Tasks:
   b.  Get the links from your previously deployed JSON response
   c.  Use HTMLRewriter to add these links to the static HTML page
   d.  Return the transformed HTML page from the Worker
-        Profile
-          Avatar
-          Name
-* Extra Credit
-    Social Links
-    Update Title
-    Change background color
+  # Profile
+   ## Avatar
+   ## Name
+# Extra Credit
+  ## Social Links
+  ## Update Title
+  ## Change background color
 
 # Orginal Problem Statement:
 # General Assignment
