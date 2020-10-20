@@ -1,17 +1,17 @@
 ## Completed Tasks:
 ### 1. JSON API
 ### 2. HTML Page
-  ### a.  Retrieve Page
-  ### b.  Get the links from your previously deployed JSON response
-  ### c.  Use HTMLRewriter to add these links to the static HTML page
-  ### d.  Return the transformed HTML page from the Worker
+      a.  Retrieve Page
+      b.  Get the links from your previously deployed JSON response
+      c.  Use HTMLRewriter to add these links to the static HTML page
+      d.  Return the transformed HTML page from the Worker
   #### Profile
-   #### a. Avatar
-   #### b. Name
+      a. Avatar
+      b. Name
 ## Extra Credit
-  ### a. Social Links
-  ### b. Update Title
-  ### c. Change background color
+      a. Social Links
+      b. Update Title
+      c. Change background color
 
 # Orginal Problem Statement:
 # General Assignment
